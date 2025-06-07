@@ -137,7 +137,6 @@ venv.bak/
 
 # mkdocs documentation
 /site
-
 # mypy
 .mypy_cache/
 .dmypy.json
@@ -216,3 +215,6 @@ terraform.rc
 # Ignore backup files
 /backup*
 
+# Ignore all datasets and model weight files
+data
+*.pt
