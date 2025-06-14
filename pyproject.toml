@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "ipykernel>=6.29.5",
+    "scikit-learn>=1.7.0",
+    "supervision>=0.25.1",
     "ultralytics>=8.3.145",
     "vizdoom>=1.2.4",
 ]

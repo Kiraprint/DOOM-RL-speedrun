@@ -217,4 +217,7 @@ terraform.rc
 
 # Ignore all datasets and model weight files
 data
+datasets
 *.pt
+
+runs
