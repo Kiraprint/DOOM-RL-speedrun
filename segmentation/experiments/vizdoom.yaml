@@ -1,0 +1,18 @@
+path: ../datasets/doom_yolo_dataset
+train: train
+val: val
+
+names:
+  0: walls
+  1: floors
+  2: melee_monsters
+  3: other_monsters
+  4: corpse
+  5: ammo
+  6: weapon
+  7: health
+  8: armor
+  9: keys_cards
+  10: powerups_artifacts
+  11: visual_effect
+  12: misc
